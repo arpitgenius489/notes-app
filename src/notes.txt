@@ -1,0 +1,2 @@
+# This file will store all notes in plain text format.
+# Each note will be stored on a new line.
