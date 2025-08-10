@@ -40,7 +40,7 @@ Below are screenshots of the app running in the terminal:
 
 ## File Structure
 ```
-Notes App/
+notes-app/
 ├── src/
 │   ├── NotesApp.java
 │   └── notes.txt
